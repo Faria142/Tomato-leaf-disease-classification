@@ -1,2 +1,3 @@
 # Tomato-leaf-disease-classification
-Okay
+A convolutional neural network architecture with machine learning algorithms project for tomato leaf disease classification
+Models Used: Resnet 50, Random Forest, Decision Tree, Support Vector Machine, K-Nearest Neighbor
